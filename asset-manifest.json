@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.js": "/react_proj_1/static/js/main.d6e6ab68.chunk.js",
-    "main.js.map": "/react_proj_1/static/js/main.d6e6ab68.chunk.js.map",
+    "main.css": "/react_proj_1/static/css/main.bbf1929f.chunk.css",
+    "main.js": "/react_proj_1/static/js/main.46eedd96.chunk.js",
+    "main.js.map": "/react_proj_1/static/js/main.46eedd96.chunk.js.map",
     "runtime-main.js": "/react_proj_1/static/js/runtime-main.1f691909.js",
     "runtime-main.js.map": "/react_proj_1/static/js/runtime-main.1f691909.js.map",
-    "static/js/2.4cb22367.chunk.js": "/react_proj_1/static/js/2.4cb22367.chunk.js",
-    "static/js/2.4cb22367.chunk.js.map": "/react_proj_1/static/js/2.4cb22367.chunk.js.map",
+    "static/css/2.028f23ab.chunk.css": "/react_proj_1/static/css/2.028f23ab.chunk.css",
+    "static/js/2.6efd9e74.chunk.js": "/react_proj_1/static/js/2.6efd9e74.chunk.js",
+    "static/js/2.6efd9e74.chunk.js.map": "/react_proj_1/static/js/2.6efd9e74.chunk.js.map",
     "index.html": "/react_proj_1/index.html",
-    "precache-manifest.5249af9a21cc6bf2d579c4c99b2c574b.js": "/react_proj_1/precache-manifest.5249af9a21cc6bf2d579c4c99b2c574b.js",
+    "precache-manifest.4f734764fb4f50bb7f0241b674d09a97.js": "/react_proj_1/precache-manifest.4f734764fb4f50bb7f0241b674d09a97.js",
     "service-worker.js": "/react_proj_1/service-worker.js",
-    "static/js/2.4cb22367.chunk.js.LICENSE.txt": "/react_proj_1/static/js/2.4cb22367.chunk.js.LICENSE.txt"
+    "static/css/2.028f23ab.chunk.css.map": "/react_proj_1/static/css/2.028f23ab.chunk.css.map",
+    "static/css/main.bbf1929f.chunk.css.map": "/react_proj_1/static/css/main.bbf1929f.chunk.css.map",
+    "static/js/2.6efd9e74.chunk.js.LICENSE.txt": "/react_proj_1/static/js/2.6efd9e74.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/react_proj_1/static/media/about.d8a6563e.jpg",
+    "static/media/index.css": "/react_proj_1/static/media/work-5.021f7a10.jpg",
+    "static/media/service_1.jpg": "/react_proj_1/static/media/service_1.7ebd1ea7.jpg",
+    "static/media/service_2.jpg": "/react_proj_1/static/media/service_2.34879ab2.jpg",
+    "static/media/service_3.jpg": "/react_proj_1/static/media/service_3.d44269e5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f691909.js",
-    "static/js/2.4cb22367.chunk.js",
-    "static/js/main.d6e6ab68.chunk.js"
+    "static/css/2.028f23ab.chunk.css",
+    "static/js/2.6efd9e74.chunk.js",
+    "static/css/main.bbf1929f.chunk.css",
+    "static/js/main.46eedd96.chunk.js"
   ]
 }
